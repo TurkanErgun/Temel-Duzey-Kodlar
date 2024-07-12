@@ -1,0 +1,23 @@
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.AssemblyReference.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.SuggestedBindingRedirects.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp13(ÇARPIM TABLOSU)\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp13(ÇARPIM TABLOSU)\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp13(ÇARPIM TABLOSU)\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp13(ÇARPIM TABLOSU)\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.AssemblyReference.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp13(ÇARPIM TABLOSU)\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.SuggestedBindingRedirects.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp13(ÇARPIM TABLOSU)\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp13(ÇARPIM TABLOSU)\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp13(ÇARPIM TABLOSU)\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
+C:\Users\ergun\Desktop\Visual Studio\ConsoleApp13(ÇARPIM TABLOSU)\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+C:\Users\ergun\Desktop\Visual Studio\ConsoleApp13(ÇARPIM TABLOSU)\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+C:\Users\ergun\Desktop\Visual Studio\ConsoleApp13(ÇARPIM TABLOSU)\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+C:\Users\ergun\Desktop\Visual Studio\ConsoleApp13(ÇARPIM TABLOSU)\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.AssemblyReference.cache
+C:\Users\ergun\Desktop\Visual Studio\ConsoleApp13(ÇARPIM TABLOSU)\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\ergun\Desktop\Visual Studio\ConsoleApp13(ÇARPIM TABLOSU)\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+C:\Users\ergun\Desktop\Visual Studio\ConsoleApp13(ÇARPIM TABLOSU)\ConsoleApp13\obj\Debug\ConsoleApp13.pdb

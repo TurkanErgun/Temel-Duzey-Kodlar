@@ -1,0 +1,8 @@
+C:\Users\Neslihan\source\repos\Etut_Calisma_Alani\Etut_Calisma_Alani\bin\Debug\Etut_Calisma_Alani.exe.config
+C:\Users\Neslihan\source\repos\Etut_Calisma_Alani\Etut_Calisma_Alani\bin\Debug\Etut_Calisma_Alani.exe
+C:\Users\Neslihan\source\repos\Etut_Calisma_Alani\Etut_Calisma_Alani\bin\Debug\Etut_Calisma_Alani.pdb
+C:\Users\Neslihan\source\repos\Etut_Calisma_Alani\Etut_Calisma_Alani\obj\Debug\Etut_Calisma_Alani.csproj.AssemblyReference.cache
+C:\Users\Neslihan\source\repos\Etut_Calisma_Alani\Etut_Calisma_Alani\obj\Debug\Etut_Calisma_Alani.csproj.SuggestedBindingRedirects.cache
+C:\Users\Neslihan\source\repos\Etut_Calisma_Alani\Etut_Calisma_Alani\obj\Debug\Etut_Calisma_Alani.csproj.CoreCompileInputs.cache
+C:\Users\Neslihan\source\repos\Etut_Calisma_Alani\Etut_Calisma_Alani\obj\Debug\Etut_Calisma_Alani.exe
+C:\Users\Neslihan\source\repos\Etut_Calisma_Alani\Etut_Calisma_Alani\obj\Debug\Etut_Calisma_Alani.pdb

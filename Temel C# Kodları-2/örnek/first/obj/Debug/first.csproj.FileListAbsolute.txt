@@ -1,0 +1,8 @@
+C:\Users\Neslihan\source\repos\first\first\bin\Debug\first.exe.config
+C:\Users\Neslihan\source\repos\first\first\bin\Debug\first.exe
+C:\Users\Neslihan\source\repos\first\first\bin\Debug\first.pdb
+C:\Users\Neslihan\source\repos\first\first\obj\Debug\first.csproj.AssemblyReference.cache
+C:\Users\Neslihan\source\repos\first\first\obj\Debug\first.csproj.SuggestedBindingRedirects.cache
+C:\Users\Neslihan\source\repos\first\first\obj\Debug\first.csproj.CoreCompileInputs.cache
+C:\Users\Neslihan\source\repos\first\first\obj\Debug\first.exe
+C:\Users\Neslihan\source\repos\first\first\obj\Debug\first.pdb

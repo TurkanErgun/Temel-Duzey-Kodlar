@@ -1,0 +1,8 @@
+C:\Users\Neslihan\source\repos\ders2\ders2\obj\Debug\ders2.csproj.AssemblyReference.cache
+C:\Users\Neslihan\source\repos\ders2\ders2\obj\Debug\ders2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Neslihan\source\repos\ders2\ders2\obj\Debug\ders2.csproj.CoreCompileInputs.cache
+C:\Users\Neslihan\source\repos\ders2\ders2\bin\Debug\ders2.exe.config
+C:\Users\Neslihan\source\repos\ders2\ders2\bin\Debug\ders2.exe
+C:\Users\Neslihan\source\repos\ders2\ders2\bin\Debug\ders2.pdb
+C:\Users\Neslihan\source\repos\ders2\ders2\obj\Debug\ders2.exe
+C:\Users\Neslihan\source\repos\ders2\ders2\obj\Debug\ders2.pdb

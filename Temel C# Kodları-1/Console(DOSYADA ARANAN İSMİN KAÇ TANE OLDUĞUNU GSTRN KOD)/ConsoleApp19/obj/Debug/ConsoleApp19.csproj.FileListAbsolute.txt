@@ -1,0 +1,16 @@
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.csproj.AssemblyReference.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.csproj.SuggestedBindingRedirects.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp19\ConsoleApp19\bin\Debug\ConsoleApp19.exe.config
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp19\ConsoleApp19\bin\Debug\ConsoleApp19.exe
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp19\ConsoleApp19\bin\Debug\ConsoleApp19.pdb
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.exe
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.pdb
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp19(DOSYADA ARANAN İSMİN KAÇ TANE OLDUĞUNU GSTRN KOD)\ConsoleApp19\bin\Debug\ConsoleApp19.exe.config
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp19(DOSYADA ARANAN İSMİN KAÇ TANE OLDUĞUNU GSTRN KOD)\ConsoleApp19\bin\Debug\ConsoleApp19.exe
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp19(DOSYADA ARANAN İSMİN KAÇ TANE OLDUĞUNU GSTRN KOD)\ConsoleApp19\bin\Debug\ConsoleApp19.pdb
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp19(DOSYADA ARANAN İSMİN KAÇ TANE OLDUĞUNU GSTRN KOD)\ConsoleApp19\obj\Debug\ConsoleApp19.csproj.AssemblyReference.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp19(DOSYADA ARANAN İSMİN KAÇ TANE OLDUĞUNU GSTRN KOD)\ConsoleApp19\obj\Debug\ConsoleApp19.csproj.SuggestedBindingRedirects.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp19(DOSYADA ARANAN İSMİN KAÇ TANE OLDUĞUNU GSTRN KOD)\ConsoleApp19\obj\Debug\ConsoleApp19.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp19(DOSYADA ARANAN İSMİN KAÇ TANE OLDUĞUNU GSTRN KOD)\ConsoleApp19\obj\Debug\ConsoleApp19.exe
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp19(DOSYADA ARANAN İSMİN KAÇ TANE OLDUĞUNU GSTRN KOD)\ConsoleApp19\obj\Debug\ConsoleApp19.pdb

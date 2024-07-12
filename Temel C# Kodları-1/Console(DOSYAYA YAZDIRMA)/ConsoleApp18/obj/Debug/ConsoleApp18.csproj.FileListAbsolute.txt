@@ -1,0 +1,16 @@
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.AssemblyReference.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.SuggestedBindingRedirects.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp18(DOSYAYA YAZDIRMA)\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp18(DOSYAYA YAZDIRMA)\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp18(DOSYAYA YAZDIRMA)\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp18(DOSYAYA YAZDIRMA)\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.AssemblyReference.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp18(DOSYAYA YAZDIRMA)\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.SuggestedBindingRedirects.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp18(DOSYAYA YAZDIRMA)\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp18(DOSYAYA YAZDIRMA)\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp18(DOSYAYA YAZDIRMA)\ConsoleApp18\obj\Debug\ConsoleApp18.pdb

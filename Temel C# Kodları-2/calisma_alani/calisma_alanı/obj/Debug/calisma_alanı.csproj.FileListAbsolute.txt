@@ -1,0 +1,15 @@
+C:\Users\Neslihan\source\repos\calisma_alanı\calisma_alanı\bin\Debug\calisma_alanı.exe.config
+C:\Users\Neslihan\source\repos\calisma_alanı\calisma_alanı\bin\Debug\calisma_alanı.exe
+C:\Users\Neslihan\source\repos\calisma_alanı\calisma_alanı\bin\Debug\calisma_alanı.pdb
+C:\Users\Neslihan\source\repos\calisma_alanı\calisma_alanı\obj\Debug\calisma_alanı.csproj.AssemblyReference.cache
+C:\Users\Neslihan\source\repos\calisma_alanı\calisma_alanı\obj\Debug\calisma_alanı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Neslihan\source\repos\calisma_alanı\calisma_alanı\obj\Debug\calisma_alanı.csproj.CoreCompileInputs.cache
+C:\Users\Neslihan\source\repos\calisma_alanı\calisma_alanı\obj\Debug\calisma_alanı.exe
+C:\Users\Neslihan\source\repos\calisma_alanı\calisma_alanı\obj\Debug\calisma_alanı.pdb
+C:\Users\ergun\Desktop\repos\calisma_alani\calisma_alanı\bin\Debug\calisma_alanı.exe.config
+C:\Users\ergun\Desktop\repos\calisma_alani\calisma_alanı\bin\Debug\calisma_alanı.exe
+C:\Users\ergun\Desktop\repos\calisma_alani\calisma_alanı\bin\Debug\calisma_alanı.pdb
+C:\Users\ergun\Desktop\repos\calisma_alani\calisma_alanı\obj\Debug\calisma_alanı.csproj.AssemblyReference.cache
+C:\Users\ergun\Desktop\repos\calisma_alani\calisma_alanı\obj\Debug\calisma_alanı.csproj.CoreCompileInputs.cache
+C:\Users\ergun\Desktop\repos\calisma_alani\calisma_alanı\obj\Debug\calisma_alanı.exe
+C:\Users\ergun\Desktop\repos\calisma_alani\calisma_alanı\obj\Debug\calisma_alanı.pdb

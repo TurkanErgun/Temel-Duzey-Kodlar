@@ -1,0 +1,15 @@
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\ergun\Desktop\flash\flahB\Visual Studio\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\ergun\Desktop\flash\flahB\Visual Studio\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\ergun\Desktop\flash\flahB\Visual Studio\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\ergun\Desktop\flash\flahB\Visual Studio\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\ergun\Desktop\flash\flahB\Visual Studio\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\ergun\Desktop\flash\flahB\Visual Studio\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\ergun\Desktop\flash\flahB\Visual Studio\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

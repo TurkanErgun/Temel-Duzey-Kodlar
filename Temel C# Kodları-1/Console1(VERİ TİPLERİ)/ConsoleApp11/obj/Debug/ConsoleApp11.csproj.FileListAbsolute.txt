@@ -1,0 +1,23 @@
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.AssemblyReference.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.SuggestedBindingRedirects.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp11(VERİ TİPLERİ)\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp11(VERİ TİPLERİ)\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp11(VERİ TİPLERİ)\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp11(VERİ TİPLERİ)\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.AssemblyReference.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp11(VERİ TİPLERİ)\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.SuggestedBindingRedirects.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp11(VERİ TİPLERİ)\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp11(VERİ TİPLERİ)\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+C:\Users\win10\Desktop\Visual Studio\ConsoleApp11(VERİ TİPLERİ)\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
+C:\Users\ergun\Desktop\Visual Studio\ConsoleApp11(VERİ TİPLERİ)\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+C:\Users\ergun\Desktop\Visual Studio\ConsoleApp11(VERİ TİPLERİ)\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+C:\Users\ergun\Desktop\Visual Studio\ConsoleApp11(VERİ TİPLERİ)\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+C:\Users\ergun\Desktop\Visual Studio\ConsoleApp11(VERİ TİPLERİ)\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.AssemblyReference.cache
+C:\Users\ergun\Desktop\Visual Studio\ConsoleApp11(VERİ TİPLERİ)\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\ergun\Desktop\Visual Studio\ConsoleApp11(VERİ TİPLERİ)\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+C:\Users\ergun\Desktop\Visual Studio\ConsoleApp11(VERİ TİPLERİ)\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
